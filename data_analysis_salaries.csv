@@ -1,0 +1,674 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,employee_residence,remote_ratio,company_location,company_size
+2023,SE,FT,Data Analyst,130000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,100000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,150000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,110000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,105380,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,64500,USD,US,0,United States,M
+2023,EN,FT,Data Quality Analyst,100000,USD,NG,100,Nigeria,L
+2023,EN,FT,Compliance Data Analyst,30000,USD,NG,100,Nigeria,L
+2023,SE,FT,Data Analyst,202800,USD,US,0,United States,L
+2023,SE,FT,Data Analyst,104300,USD,US,0,United States,L
+2023,SE,FT,Data Analyst,145000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,65000,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,75000,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,70000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,204500,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,138900,USD,US,0,United States,M
+2023,MI,FT,Business Data Analyst,105000,USD,US,50,United States,L
+2023,MI,FT,Data Analyst,47120,GBP,GB,0,United Kingdom,M
+2023,MI,FT,Data Analyst,43400,GBP,GB,0,United Kingdom,M
+2023,SE,FT,Data Analyst,168400,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,105200,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,55800,GBP,CF,100,Central African Republic,M
+2023,SE,FT,Data Analyst,43400,GBP,CF,100,Central African Republic,M
+2020,SE,FT,Staff Data Analyst,15000,USD,NG,0,Canada,M
+2023,EN,FT,Data Analyst,85000,USD,US,100,United States,M
+2023,EN,FT,Data Analyst,75000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,120000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,75000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,140000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,120000,USD,US,0,United States,M
+2023,SE,FT,Data Quality Analyst,100000,USD,US,0,United States,M
+2023,SE,FT,Data Quality Analyst,80000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,135000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,105500,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,80000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,70000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,200000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,148500,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,149500,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,127075,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,187000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,128000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,142000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,75000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,125000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,112000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,139000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,106000,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,40700,CAD,CA,0,Canada,L
+2023,SE,FT,Data Analyst,140000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,120000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,175000,USD,CA,100,Canada,M
+2023,SE,FT,Data Analyst,135000,USD,CA,100,Canada,M
+2023,SE,FT,Data Quality Analyst,100000,USD,US,0,United States,M
+2023,SE,FT,Data Quality Analyst,80000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,90000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,75000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,155000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,106000,USD,US,0,United States,M
+2023,MI,FT,Lead Data Analyst,68000,USD,US,0,United States,L
+2023,SE,FT,Data Analyst,105000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,90000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,135000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,105500,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,80000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,70000,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,64200,USD,US,100,United States,M
+2023,EN,FT,Data Analyst,56100,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,208450,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,170550,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,153600,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,100500,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,182500,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,121500,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,74400,GBP,GB,0,United Kingdom,M
+2023,MI,FT,Data Analyst,55800,GBP,GB,0,United Kingdom,M
+2023,SE,FT,Data Analyst,100000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,80000,USD,US,100,United States,M
+2023,EN,FT,Business Data Analyst,21400,EUR,ES,0,Spain,M
+2023,SE,FT,Data Analyst,175000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,145000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,148700,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,125600,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,185000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,120250,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,208049,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,128500,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,190000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,95000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,153600,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,106800,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,128000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,85000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,135000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,105500,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,100000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,80000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,154000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,143000,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,85000,USD,US,100,United States,M
+2023,EN,FT,Data Analyst,75000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,83500,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,52500,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,165000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,140000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,180180,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,106020,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,153600,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,100500,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,206500,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,121600,USD,US,100,United States,M
+2023,EN,FT,Data Analyst,95000,USD,US,100,United States,M
+2023,EN,FT,Data Analyst,70000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,115934,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,81666,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,206000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,130000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,110000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,75000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,160000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,112000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,85000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,185000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,120250,USD,US,100,United States,M
+2023,MI,FT,Financial Data Analyst,130000,USD,US,100,United States,L
+2023,SE,FT,Data Analyst,70000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,55000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,75000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,65000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,180180,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,106020,USD,US,0,United States,M
+2023,MI,FT,Lead Data Analyst,18000,INR,IN,50,India,L
+2023,EN,FT,Data Analyst,75000,USD,US,100,United States,M
+2023,EN,FT,Data Analyst,60000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,169000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,110600,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,250000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,138000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,130000,USD,CA,100,Canada,M
+2023,MI,FT,Data Analyst,100000,USD,CA,100,Canada,M
+2023,SE,FT,Data Analyst,127000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,94000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,161500,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,119500,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,175000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,145000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,185900,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,121700,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,153600,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,106800,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,100000,USD,UZ,100,United States,L
+2023,SE,FT,Data Analyst,125000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,110000,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,150000,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,100000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,99200,GBP,GB,0,United Kingdom,M
+2023,MI,FT,Data Analyst,49600,GBP,GB,0,United Kingdom,M
+2023,SE,FT,Data Analyst,95000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,85500,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,185900,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,121700,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,120000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,75000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,80600,GBP,GB,100,United Kingdom,M
+2023,MI,FT,Data Analyst,44702,GBP,GB,100,United Kingdom,M
+2023,SE,FT,Data Analyst,180000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,110000,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,85000,USD,US,100,United States,M
+2023,EN,FT,Data Analyst,75000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,145000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,90000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,95000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,85500,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,30000,USD,IN,50,India,M
+2022,EN,PT,Data Analyst,34320,USD,US,100,United States,S
+2022,MI,FT,Business Data Analyst,9600,BRL,BR,100,Brazil,M
+2023,SE,FT,Data Analyst,175000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,130000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,122000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,93800,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,165000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,112000,USD,US,100,United States,M
+2023,SE,FT,BI Data Analyst,71690,EUR,DE,100,Germany,M
+2023,SE,FT,Data Analyst,15600,INR,IN,100,India,S
+2023,SE,FT,Data Analyst,185900,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,121700,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,180180,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,106020,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,125000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,110000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,152380,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,121904,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,170500,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,85000,USD,US,100,United States,M
+2023,SE,FT,Data Quality Analyst,72200,USD,US,0,United States,M
+2023,SE,FT,Data Quality Analyst,64980,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,179975,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,86466,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,169000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,110600,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,230000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,180000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,153600,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,106800,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,165000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,125000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,95000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,85500,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,110000,USD,US,100,United States,S
+2023,SE,FT,Data Analyst,80000,USD,US,100,United States,S
+2023,EN,FT,Data Analyst,55000,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,48000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,95000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,85000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,80000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,60000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,142000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,95000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,111600,GBP,HR,0,Croatia,M
+2023,MI,FT,Data Analyst,74400,GBP,HR,0,Croatia,M
+2023,EN,PT,Data Analyst,18720,PLN,PL,100,India,L
+2023,SE,FT,Data Analyst,120000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,75000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,169000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,110600,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,75000,USD,US,100,United States,M
+2023,EN,FT,Data Analyst,60000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,227000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,108000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,55640,EUR,ES,100,Spain,M
+2023,SE,FT,Data Analyst,51360,EUR,ES,100,Spain,M
+2023,EN,FT,Data Analyst,60000,USD,US,100,United States,L
+2023,EN,FT,Data Analyst,50000,USD,KW,50,United States,L
+2023,SE,FT,Data Analyst,80000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,52500,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,85000,USD,US,100,United States,M
+2023,EN,FT,Data Analyst,75000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,153600,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,106800,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,165000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,124000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,115934,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,81666,USD,US,100,United States,M
+2023,MI,FT,Product Data Analyst,16200,INR,IN,100,India,L
+2023,MI,FT,Data Analyst,125000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,105000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,111600,GBP,GB,0,United Kingdom,M
+2023,MI,FT,Data Analyst,86800,GBP,GB,0,United Kingdom,M
+2023,EN,FT,Data Analyst,55000,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,48000,USD,US,0,United States,M
+2023,EN,FT,Data Analyst,100000,USD,US,50,United States,M
+2023,SE,FT,Data Analyst,385000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,60000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,110000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,95000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,180180,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,106020,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,93919,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,51962,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,192500,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,140000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,62000,GBP,GB,0,United Kingdom,M
+2023,MI,FT,Data Analyst,55800,GBP,GB,0,United Kingdom,M
+2023,MI,FT,Data Analyst,130000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,153600,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,106800,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,150000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,180180,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,106020,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,122000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,94000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,175000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,145000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,103200,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,61200,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,130000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,87000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,160000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,108000,USD,US,100,United States,M
+2023,EN,FT,Data Analyst,30000,USD,AR,100,United States,S
+2023,MI,FT,Data Analyst,206000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,160000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,109000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,79000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,160000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,125600,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,141290,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,74178,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,80000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,52500,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,90000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,80000,USD,US,0,United States,M
+2022,EN,FT,Business Data Analyst,48000,USD,US,50,United States,L
+2023,MI,FT,Data Analyst,150000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2023,EN,FT,Business Data Analyst,12840,EUR,GR,50,Greece,L
+2023,SE,FT,Data Analyst,51360,EUR,ES,0,Spain,M
+2023,SE,FT,Data Analyst,40660,EUR,ES,0,Spain,M
+2023,SE,FT,Data Analyst,51360,EUR,ES,0,Spain,M
+2023,SE,FT,Data Analyst,40660,EUR,ES,0,Spain,M
+2023,MI,FT,Data Analyst,120000,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,100000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,145000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,102500,USD,US,100,United States,M
+2023,MI,FT,Data Analyst,135000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,105500,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,80600,GBP,GB,0,United Kingdom,M
+2023,MI,FT,Data Analyst,44702,GBP,GB,0,United Kingdom,M
+2023,MI,FT,Data Analyst,116000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,72000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,120000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,80000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,150000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,240500,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,137500,USD,US,0,United States,M
+2022,EN,PT,Data Analyst,25680,EUR,ES,100,United States,L
+2023,SE,FT,Data Analyst,125000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,85000,USD,US,0,United States,M
+2023,SE,FT,Data Analyst,130000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,80000,USD,US,100,United States,M
+2022,MI,FT,Business Data Analyst,17280,INR,IN,50,India,L
+2023,SE,FT,Data Analyst,155000,USD,US,100,United States,M
+2023,SE,FT,Data Analyst,64000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,13500,INR,IN,100,India,L
+2023,MI,FT,Data Analyst,150000,USD,US,0,United States,M
+2023,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,150000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,150000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,149000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,119000,USD,US,100,United States,M
+2022,EN,FT,Product Data Analyst,100000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,75000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,60000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,120000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,95000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,150000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,115934,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,81666,USD,US,100,United States,M
+2022,EN,FT,Data Analyst,55000,USD,US,0,United States,M
+2022,EN,FT,Data Analyst,48000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,127000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,104000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,102640,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,66100,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,150000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,100000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,115934,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,81666,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,434000,GBP,GB,0,United Kingdom,M
+2022,MI,FT,Data Analyst,55800,GBP,GB,0,United Kingdom,M
+2022,SE,FT,Data Analyst,51360,EUR,ES,0,Spain,M
+2022,SE,FT,Data Analyst,40660,EUR,ES,0,Spain,M
+2022,SE,FT,Data Analyst,169000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,110600,USD,US,0,United States,M
+2022,EN,FT,BI Data Analyst,62060,EUR,DE,0,Germany,L
+2022,MI,FT,Data Analyst,75000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,60000,USD,US,100,United States,M
+2022,EN,FT,Data Analyst,50000,USD,US,50,United States,L
+2022,SE,FT,Data Analyst,166700,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,119000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,100000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,65000,USD,US,100,United States,M
+2021,MI,FT,Data Analyst,15000,INR,IN,50,India,L
+2022,EN,FT,Data Analyst,50000,USD,US,50,United States,L
+2022,MI,FT,Data Analyst,150000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,115934,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,81666,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,120000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,95000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,201000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,89200,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,192500,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,140000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,65000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,55000,USD,US,100,United States,M
+2020,MI,FT,Business Data Analyst,95000,USD,US,0,United States,M
+2021,SE,FT,Data Analyst,115000,USD,US,100,United States,S
+2022,SE,FT,Data Analyst,171000,USD,US,100,Australia,L
+2022,MI,FT,Data Analyst,150000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,165000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,124000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,169000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,110600,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,116000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,96000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,93000,GBP,GB,0,United Kingdom,M
+2022,SE,FT,Data Analyst,70680,GBP,GB,0,United Kingdom,M
+2022,SE,FT,Data Analyst,105000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,70000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,70000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,130000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,160000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,109000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,206000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,160000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,150000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,169000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,110600,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,80000,USD,US,100,United States,L
+2022,MI,FT,BI Data Analyst,107000,EUR,FR,50,France,M
+2022,SE,FT,Data Analyst,130000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,165000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,124000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,150000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,100000,USD,CA,0,Canada,M
+2022,MI,FT,Data Analyst,65000,USD,CA,0,Canada,M
+2022,SE,FT,Data Analyst,177000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,131000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,169000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,110600,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,150000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,110000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,95000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,169000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,110600,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,115934,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,81666,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,154560,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,123648,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,130000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,130000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,105000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,206000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,160000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,109000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,79000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,160000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,109000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,127000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,110000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,169000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,110600,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,150000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,100000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,120000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,95000,USD,US,0,United States,M
+2022,EN,FT,Data Analyst,64000,USD,US,100,United States,L
+2022,SE,FT,Data Analyst,150000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,127000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,166700,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,119000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,130000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,100000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,80000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,52500,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,135000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,100000,USD,US,100,United States,M
+2022,EN,PT,Data Analyst,125404,USD,CN,50,United States,S
+2022,SE,FT,Data Operations Analyst,123000,USD,US,0,United States,M
+2022,SE,FT,Data Operations Analyst,92250,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,80000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,52500,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,51360,EUR,ES,0,Spain,M
+2022,SE,FT,Data Analyst,37450,EUR,ES,0,Spain,M
+2022,SE,FT,Data Analyst,150000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,95000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,175950,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,130050,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,236600,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,89200,USD,US,100,United States,M
+2022,SE,FT,Marketing Data Analyst,200000,USD,GB,100,United Kingdom,S
+2022,SE,FT,Data Analyst,169000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,110600,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,85000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,65000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,169000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,110600,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,139600,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,85700,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,115000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,95000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,105000,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,62000,USD,US,0,United States,M
+2022,EN,FT,BI Data Analyst,57000,USD,US,100,United States,L
+2022,SE,FT,Data Analyst,115934,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,81666,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,51360,EUR,ES,0,Spain,M
+2022,SE,FT,Data Analyst,37450,EUR,ES,0,Spain,M
+2022,SE,CT,Data Analyst,90000,USD,US,100,United States,M
+2022,MI,FT,BI Data Analyst,42900,AUD,AU,50,Australia,L
+2021,EN,FT,Data Analyst,36960,AUD,AU,50,Australia,L
+2022,EN,FT,Data Analyst,20000,USD,CR,50,United States,M
+2022,SE,FT,Data Analyst,99750,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,68400,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,110000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,99000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,51360,EUR,ES,0,Spain,M
+2022,SE,FT,Data Analyst,37450,EUR,ES,0,Spain,M
+2022,MI,FT,Business Data Analyst,150000,USD,US,100,United States,L
+2022,SE,FT,Data Analyst,144000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,113000,USD,US,100,United States,M
+2022,EN,FT,BI Data Analyst,7596,INR,IN,100,India,M
+2022,EN,FT,Business Data Analyst,50000,USD,IN,100,American Samoa,L
+2022,EN,FT,Data Analyst,8060,BRL,BR,100,Brazil,L
+2022,MI,FT,Data Analyst,136000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,112000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,97500,USD,US,100,United States,L
+2022,EN,FT,Data Analyst,6000,INR,FR,100,India,L
+2022,MI,FT,Financial Data Analyst,75000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,115000,USD,US,0,United States,L
+2022,SE,FT,Data Operations Analyst,81000,USD,US,100,United States,M
+2022,SE,FT,Data Operations Analyst,66000,USD,US,100,United States,M
+2022,EN,FT,Data Analyst,46000,USD,US,100,United States,L
+2022,MI,FT,Data Analyst,113000,USD,US,0,United States,L
+2022,MI,FT,Product Data Analyst,140000,USD,US,100,United States,M
+2021,SE,FT,Data Analyst,50000,USD,PH,100,Philippines,S
+2022,MI,FT,BI Data Analyst,50820,AUD,AU,100,Australia,M
+2022,EN,FT,BI Data Analyst,6480,BRL,BR,100,Brazil,L
+2022,SE,FT,Data Analyst,216200,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,144100,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,117000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,99450,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,86800,GBP,GB,0,United Kingdom,M
+2022,SE,FT,Data Analyst,62000,GBP,GB,0,United Kingdom,M
+2022,SE,FT,Data Analyst,175000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,130000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,5400,INR,IN,100,India,S
+2022,MI,FT,BI Data Analyst,51360,EUR,DE,100,Germany,S
+2022,EN,FT,Data Analyst,50000,USD,AR,100,Argentina,L
+2022,MI,FT,Data Analyst,216200,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,144100,USD,US,0,United States,M
+2022,EN,FT,Data Analyst,150000,USD,US,100,United States,L
+2022,EN,FT,Data Analyst,55000,USD,US,100,United States,S
+2022,MI,FT,Data Analyst,130000,USD,US,100,United States,M
+2022,EN,FT,Data Analyst,28890,EUR,FR,50,France,M
+2022,SE,FT,Data Analyst,128875,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,93700,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,136260,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,109280,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,117000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,99450,USD,US,100,United States,M
+2022,SE,FT,Business Data Analyst,100000,USD,US,100,United States,L
+2022,MI,FT,Data Analyst,66600,SGD,SG,50,Singapore,M
+2022,SE,FT,Data Analyst,150075,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,110925,USD,US,100,United States,M
+2020,EN,FT,Data Analyst,21400,EUR,PT,100,Portugal,M
+2022,EN,FT,Data Analyst,15000,USD,ID,0,Indonesia,L
+2022,SE,FT,Data Analyst,112900,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,90320,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,112900,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,90320,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,115934,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,81666,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,164000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,132000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,128875,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,93700,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,49600,GBP,GB,100,United Kingdom,M
+2022,MI,FT,Data Analyst,37200,GBP,GB,100,United Kingdom,M
+2022,MI,FT,Data Analyst,42800,EUR,ES,100,Spain,M
+2022,MI,FT,Data Analyst,32100,EUR,ES,100,Spain,M
+2022,MI,FT,Data Analyst,42800,EUR,GR,100,Greece,M
+2022,MI,FT,Data Analyst,32100,EUR,GR,100,Greece,M
+2022,MI,FT,Data Analyst,58000,USD,US,0,United States,S
+2022,MI,FT,Data Analyst,58000,USD,US,0,United States,S
+2022,SE,FT,Data Analyst,124190,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,90320,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,126500,USD,US,0,United States,M
+2022,MI,FT,Data Analyst,106260,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,116000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,99000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,155000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,120600,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,102100,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,84900,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,130000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,110000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,170000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,135000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,130000,USD,CA,100,Canada,M
+2022,SE,FT,Data Analyst,61300,USD,CA,100,Canada,M
+2022,SE,FT,Data Analyst,130000,USD,CA,100,Canada,M
+2022,SE,FT,Data Analyst,61300,USD,CA,100,Canada,M
+2022,MI,FT,Data Analyst,167000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,115500,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,112900,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,90320,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,112900,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,90320,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,136600,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,109280,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,116150,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,99050,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,112900,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,90320,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,85000,USD,CA,0,Canada,M
+2022,MI,FT,Data Analyst,75000,USD,CA,0,Canada,M
+2022,SE,FT,Data Analyst,115934,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,81666,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,62000,GBP,GB,0,United Kingdom,M
+2022,MI,FT,Data Analyst,43400,GBP,GB,0,United Kingdom,M
+2022,SE,FT,Data Analyst,80000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,60000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,170000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,150000,USD,US,100,United States,M
+2022,EN,FT,Data Analyst,67000,USD,CA,0,Canada,M
+2022,EN,FT,Data Analyst,52000,USD,CA,0,Canada,M
+2022,SE,FT,Data Analyst,129000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,99000,USD,US,0,United States,M
+2022,SE,FT,Data Analyst,100000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,69000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,150075,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,110925,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,126500,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,106260,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,105000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,100000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,170000,USD,US,100,United States,M
+2022,SE,FT,Data Analyst,135000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,135000,USD,US,100,United States,M
+2022,MI,FT,Data Analyst,50000,USD,US,100,United States,M
+2022,MI,FT,Business Data Analyst,16800,INR,IN,100,India,M
+2022,MI,FT,Business Data Analyst,66600,CAD,CA,50,Canada,L
+2022,MI,FT,Data Analyst,20000,USD,GR,100,Greece,S
+2022,MI,FT,Principal Data Analyst,75000,USD,CA,100,Canada,S
+2020,MI,FT,Product Data Analyst,20000,USD,HN,0,Honduras,S
+2021,MI,FT,Data Analyst,135000,USD,US,100,United States,L
+2021,MI,FT,Data Analyst,90000,USD,US,100,United States,M
+2022,EN,FT,Financial Data Analyst,100000,USD,US,50,United States,L
+2021,EN,PT,Data Analyst,9373,EUR,ES,50,Spain,M
+2021,EN,FT,Data Analyst,50000,USD,US,100,United States,M
+2021,EN,FT,BI Data Analyst,55000,USD,US,50,United States,S
+2020,MI,FT,Data Analyst,43870,EUR,FR,50,France,L
+2021,EN,FT,Data Analyst,90000,USD,US,100,United States,S
+2021,EN,FT,Data Analyst,60000,USD,US,100,United States,S
+2021,EN,FT,Data Analyst,53500,EUR,FR,50,France,M
+2021,SE,FT,Data Analyst,80000,USD,BG,100,United States,S
+2020,EN,FT,Data Analyst,10000,USD,NG,100,Nigeria,S
+2021,SE,FT,Lead Data Analyst,170000,USD,US,100,United States,L
+2021,EN,FT,Data Analyst,80000,USD,US,100,United States,M
+2021,MI,FT,BI Data Analyst,100000,USD,US,100,United States,M
+2021,SE,FT,BI Data Analyst,150000,USD,IN,100,United States,L
+2021,SE,FT,Marketing Data Analyst,80250,EUR,GR,100,Denmark,L
+2021,MI,FT,Data Analyst,46445,GBP,GB,50,United Kingdom,L
+2021,MI,FT,BI Data Analyst,31900,HUF,HU,50,United States,L
+2021,MI,FT,Data Analyst,93000,USD,US,100,United States,L
+2020,EN,FT,Data Analyst,5400,INR,IN,0,India,S
+2021,SE,FT,Principal Data Analyst,170000,USD,US,100,United States,M
+2020,EN,FT,Data Analyst,91000,USD,US,100,United States,L
+2021,MI,FT,Data Analyst,80000,USD,US,100,United States,L
+2021,SE,FT,Data Analyst,200000,USD,US,100,United States,L
+2020,EN,FT,Data Analyst,72000,USD,US,100,United States,L
+2021,SE,FT,Data Analyst,57780,EUR,DE,50,Germany,L
+2021,SE,FT,Data Analyst,66600,CAD,CA,100,Canada,M
+2021,EN,FT,BI Data Analyst,9272,USD,KE,100,Kenya,S
+2020,MI,FT,Business Data Analyst,135000,USD,US,100,United States,L
+2020,MI,FT,Lead Data Analyst,87000,USD,US,100,United States,L
+2020,MI,FT,Data Analyst,85000,USD,US,100,United States,L
+2020,MI,FT,Data Analyst,8000,USD,PK,50,Pakistan,L
+2020,MI,FT,Product Data Analyst,5400,INR,IN,100,India,L
+2020,MI,FT,BI Data Analyst,98000,USD,US,0,United States,M
+2021,SE,FT,Finance Data Analyst,55800,GBP,GB,50,United Kingdom,L
+2021,EN,FT,Business Data Analyst,53500,EUR,LU,100,Luxembourg,L
+2021,MI,FT,Lead Data Analyst,17400,INR,IN,100,India,L
+2021,MI,FT,Data Analyst,75000,USD,US,0,United States,L
+2021,MI,FT,Data Analyst,62000,USD,US,0,United States,L
+2020,EN,CT,Business Data Analyst,100000,USD,US,100,United States,L
